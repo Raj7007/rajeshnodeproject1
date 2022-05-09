@@ -1,0 +1,117 @@
+.img img {
+    justify-content: space-evenly;
+    display: inline-block;
+    margin: 0px 15px;
+    margin-top: 10px;
+
+}
+
+.b b {
+    display: inline-block;
+    margin: 0px 46px;
+}
+
+.block1 {
+    border: solid white;
+    width: 950px;
+    height: 350px;
+    margin-top: 20px;
+    margin-left: 10px;
+    box-shadow: rgb(180, 179, 179) 0px 0px 14px;
+    display: inline-block;
+    padding-top: 10px;
+
+}
+
+.block1 img{
+    margin-left: 30px;
+}
+.block1 img:hover{
+    height: 170px;
+    width: 140px;
+}
+#b1 b {
+    display: inline-block;
+    margin: 0px 58px;
+    margin-top: 10px;
+}
+.rimg img{
+    height: 360px;
+    width: 330px;
+    position: absolute;
+    margin-left: 74%;
+    margin-top: -26.5%;
+}
+
+.card1 ul {
+    display: flex;
+    list-style: none;
+    margin-top: 40px;
+}
+
+.card1 ul li{
+    margin-left: 20px;
+}
+
+.card1 ul li img{
+    height: 200px;
+    width: 200px;
+}
+
+/* .card1 :hover {
+    height: 100px;
+    width: 100px;
+} */
+.block2{
+    border: solid 2px white;
+    height: 200px;
+    width: 95%;
+    margin-left: 3%;
+    box-shadow: rgb(214, 206, 206) 0px 0px 15px ;
+    padding: 10px;
+}
+
+.block2 img{
+    height: 150px;
+    width: 130px;
+    margin-left: 60px;
+}
+
+
+
+.names b{
+    display: inline-block;
+    justify-content: space-around;
+     margin-top: 10px;
+    margin-left: 95px; 
+} 
+.block2 img:hover{
+    height: 160px;
+    width: 140px;
+}
+
+.tt{
+    border: solid 2px white;
+    height: 870px;
+    width: 95%;
+    margin-left: 3%;
+    box-shadow: rgb(214, 206, 206) 0px 0px 15px ;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(24, 24, 36);
+  
+}
+
+.footer dt{
+    color: white;
+    
+}
+.footer  dd{
+    color:white
+}
+

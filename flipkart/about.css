@@ -1,0 +1,21 @@
+body{
+    background-image: url(https://static-assets-web.flixcart.com/www/promos/new/20161017-190224-20150824-132608-the-journey3.png);
+    background-repeat: none;
+}
+
+
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(24, 24, 36);
+    margin-top: 85%;
+  
+}
+
+.footer dt{
+    color: white;
+    
+}
+.footer  dd{
+    color:white
+}

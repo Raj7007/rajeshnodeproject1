@@ -1,0 +1,17 @@
+
+.block{
+    border: solid 3px white;
+    height: 400px;
+    width: 90%;
+    box-shadow: 0px 0px 15px rgb(14, 7, 77);
+    padding: 20px;
+    margin-left: 35px;
+    margin-top: 20px;
+    background-color: rgb(87, 87, 226);
+
+}
+
+.holecontent{
+    display: flex;
+    justify-content: space-evenly;
+}

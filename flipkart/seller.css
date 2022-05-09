@@ -1,0 +1,21 @@
+.block{
+    border: solid 3px white;
+    height: 600px;
+    width: 95%;
+    box-shadow: 0px 0px 15px rgb(201, 158, 158);
+    padding: 20px;
+    margin-left: 35px;
+    margin-top: 20px;
+}
+
+.block1row1{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card img:hover{
+    height: 300px;
+    width: 350px;
+}
+
+
